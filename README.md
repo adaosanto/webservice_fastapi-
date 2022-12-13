@@ -6,7 +6,7 @@ Webservice construido com FastAPI e SQLAlchemy, com autenticação pronto para d
 
 ## Configurando
 
-- Banco de Daaods
+- Banco de Dados
 ```
   Altere a variável DB_URL no arquivo /core/config.py.
 ```
